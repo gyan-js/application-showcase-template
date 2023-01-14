@@ -1,4 +1,4 @@
-# NFT Marketplace - Showcase
+# Template - Showcase
 ![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
 
 ## Introduction
